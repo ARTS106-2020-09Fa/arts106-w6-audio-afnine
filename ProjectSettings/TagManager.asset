@@ -4,8 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - EnemyZone
+  - Ambience
   - Water
   - Doorway
+  - WoodFloor
+  - HardFloor
+  - GrassFloor
   layers:
   - Default
   - TransparentFX
@@ -17,10 +22,10 @@ TagManager:
   - 
   - PostProcessing
   - 
-  - 
-  - 
-  - 
-  - 
+  - Enemies
+  - WoodFloor
+  - HardFloor
+  - GrassFloor
   - 
   - 
   - 
